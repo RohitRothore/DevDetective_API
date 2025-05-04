@@ -99,7 +99,7 @@ function updateProfile(data){
   }
 }
 
-getUserData(url + "thepranaygupta");
+getUserData(url + "rohitrothore");
 
 input.addEventListener("keydown", function(e){
   if(e.key == "Enter"){
